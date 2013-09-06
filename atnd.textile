@@ -2,7 +2,7 @@ h1. groonga勉強会「全文検索エンジンgroongaを囲む夕べ 4」
 
 今年もいい肉の日（11/29）がやってきます！ "全文検索エンジンgroonga":http://groonga.org/ja/ の勉強会の日です。今年で第4回目になります。
 
-"前々回":http://atnd.org/events/20446 はgroonga開発チームからの最新情報の紹介がメインの内容、"前回":http://atnd.org/events/33070 はユーザーのみなさんの事例紹介がメインの内容でした。今回はこれまでよりイベント時間を拡大して、どちらの内容も扱うことにしました！
+"前々回":http://atnd.org/events/20446 はgroonga開発チームからの最新情報の紹介がメインの内容、 "前回":http://atnd.org/events/33070 はユーザーのみなさんの事例紹介がメインの内容でした。今回はこれまでよりイベント時間を拡大して、どちらの内容も扱うことにしました！
 
 "groongaのメーリングリストの投稿数":http://sourceforge.jp/projects/groonga/lists/archive/dev/ や "Twitter上での言及数":https://twitter.com/search?q=groonga%20OR%20mroonga%20OR%20rroonga&mode=realtime&src=typd をみると、どんどんgroongaが広まっていることがわかります。これはチャンスです！今回の勉強会ではgroongaに関する最新情報も、ユーザーのみなさんがどうやって使っているかの情報もどどーんと提供します！さらに、よりgroongaやmroongaを企業で安心して使うための情報も提供します。
 
