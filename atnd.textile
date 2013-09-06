@@ -107,8 +107,8 @@ h3(#application-via-github). GitHubでpull requestを送る
 この方法はすでにGitHubアカウントを持っている人に便利な方法です。
 
 # https://github.com/groonga/groonga-night-4 リポジトリをforkしてください。
-# @template.md@ を @[GitHubのアカウント名].md@ というファイルにコピーしてください。
-# @[GitHubのアカウント名].md@ を編集し、発表タイトルと発表者名を記入してください。
+# @talks/template.md@ を @talks/[GitHubのアカウント名].md@ というファイルにコピーしてください。
+# @talks/[GitHubのアカウント名].md@ を編集し、発表タイトルと発表者名を記入してください。
 # pull requestを送ってください。
 
 採択された場合はマージし、pull requestへのコメントでその旨を伝えます。定員を超えた場合はマージせず、pull requestへのコメントでその旨を伝えます。
