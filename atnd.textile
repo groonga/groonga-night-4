@@ -72,6 +72,12 @@ h3(#time-table). タイムテーブル
 |20:45-20:55|締め（10分）|
 |21:00-|懇親会|
 
+h2(#ustream). Ustream配信
+
+当日はUstreamの "groonga-nightチャンネル":http://www.ustream.tv/channel/groonga-night で勉強会の内容をインターネットに配信する予定です。時間や場所の都合があわずに参加できない方はぜひUstreamで参加してください！
+
+今回も前回と同じく "すずきさん":http://suzuki.tdiary.net/ がお手伝いしてくれます。ありがとうございます！
+
 h2(#place). 場所
 
 "株式会社ディー・エヌ・エー （東京都渋谷区渋谷2-21-1 渋谷ヒカリエ）":http://dena.com/company/access.html
