@@ -132,7 +132,7 @@ h3(#application-via-github). GitHubでpull requestを送る
 
 # https://github.com/groonga/groonga-night-4 リポジトリをforkしてください。
 # @talks/template.md@ を @talks/[GitHubのアカウント名].md@ というファイルにコピーしてください。
-# @talks/[GitHubのアカウント名].md@ を編集し、発表タイトルと発表者名を記入してください。
+# @talks/[GitHubのアカウント名].md@ を編集し、発表タイトルと発表者名を記入してください。ここに記入した内容をATNDのタイムテーブルヘ掲載します。
 # pull requestを送ってください。
 
 採択された場合はマージし、pull requestへのコメントでその旨を伝えます。定員を超えた場合はマージせず、pull requestへのコメントでその旨を伝えます。
@@ -142,6 +142,7 @@ h3(#application-via-email). メールで応募
 この方法はGitHubアカウントを持っていない人に便利な方法です。
 
 groonga@groonga.org 宛に以下のような内容のメールを送ってください。
+メール本文に記載した発表タイトルおよび発表者名をATNDのタイムテーブルヘ掲載します。
 
 <pre>
 To: groooga@groonga.org
