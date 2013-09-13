@@ -63,7 +63,7 @@ h3(#time-table). タイムテーブル
 |18:55-19:10|休憩（15分）|
 |-|第3部: groongaユーザーから|
 |19:10-19:20|Tritonnからmroongaへの移行ガイド（仮）["@yoshi_ken":https://twitter.com/yoshi_ken/ さん]（10分）|
-|19:20-19:30|公募2（10分）|
+|19:20-19:30|mroonga de fulltextsearch ["@yoku0825":https://twitter.com/yoku0825/ さん]（10分）|
 |19:30-19:40|公募3（10分）|
 |19:40-19:50|公募4（10分）|
 |19:50-20:05|休憩（15分）|
