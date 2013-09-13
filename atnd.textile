@@ -169,6 +169,17 @@ h3(#application-via-twitter). Twitterで応募
 
 折り返し、採択されたか定員オーバーになってしまったかを連絡します。
 
+h2(#help-us). 協力者募集
+
+イベントを手伝ってくれる人を募集しています。次のことを手伝って欲しいです。groonga開発チームと話をする機会が増えて聞きたいことがききやすくなるかもしれないので、ぜひ検討してみてください。なお、手伝ってくれる方は懇親会費を無料にします。
+
+* 懇親会費の回収補助: 1-2名
+* "gihyo.jp":http://gihyo.jp/ へのイベントレポート執筆: 1名
+
+「懇親会費の回収補助」の方はTwitterまたはメールで連絡してください。Twitterの場合は "@groonga":https://twitter.com/groonga/ 宛にその旨をツイートしてください。メールの場合はgroonga@groonga.org宛にメールしてください。
+
+「gihyo.jpへのイベントレポート執筆」の方はgroonga@groonga.orgまでメールで連絡してください。レポートを書くとgihyo.jpさんから執筆料がでるので、その話の説明もする必要があるためです。レポートの分量は2ページくらいです。参考： "HTML5とか勉強会のレポート一覧":http://gihyo.jp/tagList/HTML5%E3%81%A8%E3%81%8B%E5%8B%89%E5%BC%B7%E4%BC%9A
+
 h2(#etc). その他
 
 今回も "groongaと関連プロジェクトのステッカー":http://groonga.org/ja/blog/2013/05/10/sticker.html を配布します！ぜひノートパソコンなどに張ってgroonga普及に協力してください！
