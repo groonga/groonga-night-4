@@ -178,7 +178,7 @@ h2(#help-us). 協力者募集
 
 「懇親会費の回収補助」の方はTwitterまたはメールで連絡してください。Twitterの場合は "@groonga":https://twitter.com/groonga/ 宛にその旨をツイートしてください。メールの場合はgroonga@groonga.org宛にメールしてください。
 
-「gihyo.jpへのイベントレポート執筆」の方はgroonga@groonga.orgまでメールで連絡してください。レポートを書くとgihyo.jpさんから執筆料がでるので、その話の説明もする必要があるためです。レポートの分量は2ページくらいです。参考： "他のイベントのレポート":gihyo.jp/news/report
+「gihyo.jpへのイベントレポート執筆」の方はgroonga@groonga.orgまでメールで連絡してください。レポートを書くとgihyo.jpさんから執筆料がでるので、その話の説明もする必要があるためです。レポートの分量は2ページくらいです。参考： "他のイベントのレポート":http://gihyo.jp/news/report
 
 h2(#etc). その他
 
