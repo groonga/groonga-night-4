@@ -64,11 +64,11 @@ h3(#time-table). タイムテーブル
 |-|第3部: groongaユーザーから|
 |19:10-19:20|Tritonnからmroongaへの移行ガイド（仮）["@yoshi_ken":https://twitter.com/yoshi_ken/ さん]（10分）|
 |19:20-19:30|mroonga de fulltextsearch ["@yoku0825":https://twitter.com/yoku0825/ さん]（10分）|
-|19:30-19:40|InnoDB FTSよりmroonga！（仮） [GREEの"@ichii386":https://twitter.com/ichii386 さん]（10分）|
+|19:30-19:40|InnoDB FTSよりmroonga！（仮） [GREEの "@ichii386":https://twitter.com/ichii386 さん]（10分）|
 |19:40-19:50|groongaをem-synchronyから使う ["@takiuchi":https://twitter.com/takiuchi さん]（10分）|
 |19:50-20:05|休憩（15分）|
 |20:05-20:15|groongaとMapKit [DeNAの沖津さん]（10分）|
-|20:15-20:25|groongaを支える取り組みの紹介（仮） [クリアコードの"林さん":https://twitter.com/kenhys さん]（10分）|
+|20:15-20:25|groongaを支える取り組みの紹介（仮） [クリアコードの "林さん":https://twitter.com/kenhys さん]（10分）|
 |20:25-20:35|公募7（10分）|
 |20:35-20:45|公募8（10分）|
 |20:45-20:55|締め（10分）|
