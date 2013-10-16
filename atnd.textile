@@ -68,7 +68,7 @@ h3(#time-table). タイムテーブル
 |19:40-19:50|groongaをem-synchronyから使う ["@takiuchi":https://twitter.com/takiuchi さん]（10分）|
 |19:50-20:05|休憩（15分）|
 |20:05-20:15|groongaとMapKit [DeNAの沖津さん]（10分）|
-|20:15-20:25|groongaを支える取り組みの紹介（仮） [クリアコードの "林さん":https://twitter.com/kenhys さん]（10分）|
+|20:15-20:25|groongaを支える取り組みの紹介（仮） [クリアコードの "林":https://twitter.com/kenhys さん]（10分）|
 |20:25-20:35|公募7（10分）|
 |20:35-20:45|公募8（10分）|
 |20:45-20:55|締め（10分）|
