@@ -69,11 +69,10 @@ h3(#time-table). タイムテーブル
 |19:50-20:05|休憩（15分）|
 |20:05-20:15|groongaとMapKit [DeNAの沖津さん]（10分）|
 |20:15-20:25|groongaを支える取り組みの紹介（仮） [クリアコードの "林":https://twitter.com/kenhys さん]（10分）|
-|20:25-20:35|公募7（10分）|
+|20:25-20:35|Groonga on スマホ（仮） ["丸山":https://twitter.com/iskm さん（10分）|
 |20:35-20:45|公募8（10分）|
 |20:45-20:55|締め（10分）|
 |21:00-|懇親会|
-
 h2(#ustream). Ustream配信
 
 当日はUstreamの "groonga-nightチャンネル":http://www.ustream.tv/channel/groonga-night で勉強会の内容をインターネットに配信する予定です。時間や場所の都合があわずに参加できない方はぜひUstreamで参加してください！
