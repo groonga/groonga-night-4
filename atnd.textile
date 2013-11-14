@@ -8,7 +8,7 @@ h1. Groonga勉強会「全文検索エンジンGroongaを囲む夕べ 4」
 
 "Groongaのメーリングリストの投稿数":http://sourceforge.jp/projects/groonga/lists/archive/dev/ やTwitter上での言及数をみると、どんどんGroongaが広まっていることがわかります。これはチャンスです！今回の勉強会ではGroongaに関する最新情報も、ユーザーのみなさんがどうやって使っているかの情報もどどーんと提供します！さらに、よりGroongaやMroongaを企業で安心して使うための情報も提供します。
 
-前回同様、今回も発表を公募します！内容はGroongaに関連していればOKです。Mroongaやrroongaを使ってこんなサービスを作っているといった事例紹介もOKですし、Groongaのプラグインを開発している、○○言語用のGroongaバインディングを開発しているといったGroonga関連プロダクトの紹介でもOKです。先着順なので発表したいという方は "応募方法":#application に従ってさっと応募してしまってください！
+前回同様、今回も発表を公募します！内容はGroongaに関連していればOKです。MroongaやRroongaを使ってこんなサービスを作っているといった事例紹介もOKですし、Groongaのプラグインを開発している、○○言語用のGroongaバインディングを開発しているといったGroonga関連プロダクトの紹介でもOKです。先着順なので発表したいという方は "応募方法":#application に従ってさっと応募してしまってください！
 
 h2(#concept). 今回のコンセプト
 
