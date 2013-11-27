@@ -10,7 +10,9 @@ h1. Groonga勉強会「全文検索エンジンGroongaを囲む夕べ 4」
 
 前回同様、今回も発表を公募しました。どんな発表があるかは "タイムテーブル":#time-table を確認してください。
 
-*参加希望者が定員を超えていますが、 "gihyo.jp":http://gihyo.jp/ へのイベントレポート執筆者(1名)になると別枠で入れます！ キャンセル待ちをしている人はレポーターとしてイベントに関わってみませんか？ 執筆料もでるので、ぜひ検討してみてください。詳細は "協力者募集":#help-us を参照してください。*
+h2. Twitterのハッシュタグは「#groonga」で！
+
+h2. Ustreamでも配信("groonga-nightチャンネル":http://www.ustream.tv/channel/groonga-night) します！
 
 h2(#concept). 今回のコンセプト
 
@@ -123,12 +125,11 @@ h2(#application). 発表の応募方法
 
 h2(#help-us). 協力者募集
 
-イベントを手伝ってくれる人を募集しています。次のことを手伝って欲しいです。Groonga開発チームと話をする機会が増えて聞きたいことがききやすくなるかもしれないので、ぜひ検討してみてください。
+2013年11月26日に協力者募集の応募を締めきりました。
+"@asakawaya":https://twitter.com/asakawaya さんが"gihyo.jp":http://gihyo.jp/ へのイベントレポートを執筆してくれることになりました。
 
-* "gihyo.jp":http://gihyo.jp/ へのイベントレポート執筆: 1名
-
-「gihyo.jpへのイベントレポート執筆」の方はgroonga@groonga.orgまでメールで連絡してください。レポートを書くとgihyo.jpさんから執筆料がでるので、その話の説明もする必要があるためです。レポートの分量は2ページくらいです。参考： "他のイベントのレポート":http://gihyo.jp/news/report
+イベントに参加できなかった人は後日公開されるレポートを楽しみに待っていてください！
 
 h2(#etc). その他
 
-今回も "Groongaと関連プロジェクトのステッカー":http://groonga.org/ja/blog/2013/05/10/sticker.html を配布します！ぜひノートパソコンなどに張ってGroonga普及に協力してください！
+今回も "Groongaと関連プロジェクトのステッカー":http://groonga.org/ja/blog/2013/05/10/sticker.html を配布します！ぜひノートパソコンなどに張ってGroonga普及に協力してください！今回のイベントではDroongaのステッカーが初登場します。
