@@ -71,8 +71,8 @@ h3(#time-table). タイムテーブル
 |19:30-19:40|InnoDB FTSよりMroonga！ [GREEの "@ichii386":https://twitter.com/ichii386 さん]（10分）|
 |19:40-19:50|Groongaをem-synchronyから使う ["@takiuchi":https://twitter.com/takiuchi さん]（10分）|
 |19:50-20:00|休憩（10分）|
-|20:05-20:15|GroongaとMapKit [DeNAの沖津さん]（10分）|
-|20:15-20:25|Groongaを支える取り組みの紹介（仮） [クリアコードの "林":https://twitter.com/kenhys さん]（10分）|
+|20:05-20:15|Groongaを支える取り組みの紹介（仮） [クリアコードの "林":https://twitter.com/kenhys さん]（10分）|
+|20:15-20:25|GroongaとMapKit [DeNAの沖津さん]（10分）|
 |20:25-20:35|Groonga on スマホ（仮） ["丸山":https://twitter.com/iskm さん]（10分）|
 |20:35-20:45|Milkode2013年の歩み（Rroongaを使ったソースコード検索エンジン） ["おんがえし":https://twitter.com/ongaeshi さん]（10分）|
 |20:45-20:50|GroongaからMroongaへの移行に際して [株式会社WEICの網岡隆宏さん]（5分）|
