@@ -126,7 +126,7 @@ h2(#application). 発表の応募方法
 h2(#help-us). 協力者募集
 
 2013年11月26日に協力者募集の応募を締めきりました。
-"@asakawaya":https://twitter.com/asakawaya さんが"gihyo.jp":http://gihyo.jp/ へのイベントレポートを執筆してくれることになりました。
+"@asakawaya":https://twitter.com/asakawaya さんが "gihyo.jp":http://gihyo.jp/ へのイベントレポートを執筆してくれることになりました。
 
 イベントに参加できなかった人は後日公開されるレポートを楽しみに待っていてください！
 
