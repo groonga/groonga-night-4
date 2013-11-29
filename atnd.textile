@@ -37,7 +37,7 @@ Groongaの特長はなんといってもその性能です。高速な検索、�
 
 全文検索エンジンが性能を追求するのは当然です。それだけではなく、Groongaは他の全文検索エンジンと違うユニークで便利な特長があります。それは、既存の仕組みとうまく適合したインターフェイスを用意しているということです。
 
-Groonga単体で全文検索エンジンサーバーとして利用できるのは他の全文検索エンジンと同じですが、それだけではなく、MySQLと組み合わせてSQLで高性能な全文検索機能を利用したり、ライブラリとしてRubyから高性能な全文検索機能を利用することができます。MySQLと組み合わせるためのプロダクトが "Mroonga":http://mroonga.org/ja/ 、Rubyのライブラリなのが "rroonga":http://ranguba.org/ja/#about-rroonga です。 "前回の発表内容":http://atnd.org/events/33070#time-table を見ればわかる通り、どちらも広く使われています。他にもnode.jsのライブラリである "Nroonga":http://nroonga.github.io/ などがあります。
+Groonga単体で全文検索エンジンサーバーとして利用できるのは他の全文検索エンジンと同じですが、それだけではなく、MySQLと組み合わせてSQLで高性能な全文検索機能を利用したり、ライブラリとしてRubyから高性能な全文検索機能を利用することができます。MySQLと組み合わせるためのプロダクトが "Mroonga":http://mroonga.org/ja/ 、Rubyのライブラリなのが "Rroonga":http://ranguba.org/ja/#about-rroonga です。 "前回の発表内容":http://atnd.org/events/33070#time-table を見ればわかる通り、どちらも広く使われています。他にもnode.jsのライブラリである "Nroonga":http://nroonga.github.io/ などがあります。
 
 あなたの使いやすい方法でGroongaベースの全文検索機能を使えます。
 
