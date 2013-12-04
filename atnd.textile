@@ -10,9 +10,33 @@ h1. Groonga勉強会「全文検索エンジンGroongaを囲む夕べ 4」
 
 前回同様、今回も発表を公募しました。どんな発表があるかは "タイムテーブル":#time-table を確認してください。
 
-h2. Twitterのハッシュタグは「#groonga」で！
+h2. イベント終了後まとめ
 
-h2. Ustreamでも配信("groonga-nightチャンネル":http://www.ustream.tv/channel/groonga-night) します！
+* Ustreamの録画 ("groonga-nightチャンネル":http://www.ustream.tv/channel/groonga-night) をチェック
+* Twitterでの反応 ("Togetterまとめ":http://togetter.com/li/598598) をチェック
+
+h3(#document). 発表資料
+
+  * クリアコードの須藤さん "Groonga族2013":http://slide.rabbit-shocker.org/authors/kou/groonga-night-4/
+  * スパイラルアームの斯波さん "Mroongaの紹介":http://www.slideshare.net/Kentoku/mroonga-20131129
+  * 未来検索ブラジルの森さん "Droongaの紹介":http://slide.rabbit-shocker.org/authors/daijiro/groonga-night-4/
+  * 未来検索ブラジルの矢田さん "Grnxxの紹介":https://docs.google.com/presentation/d/1R5YqedpDyI9NVNn6f_EkCBZ8miQAldrAxu5-AwjmPas/edit#slide=id.p
+  * SCSKの池田さん Mroongaサポートの紹介
+  * クリアコードの南さん "Groongaビジネスパートナー募集":http://www.slideshare.net/ShinichiroMinami/201311groonga-night-28796968
+  * リブセンスの @yoshi_ken さん "TritonnからMroongaへの移行体験記":http://www.slideshare.net/y-ken/migrate-fulltext-search-from-tritonn-to-mroonga
+  * @yoku0825 さん "Mroonga de fulltextsearch":http://www.slideshare.net/yoku0825/mroonga-de-fts 
+  * GREEの @ichii386 さん InnoDB FTSよりMroonga！ 
+  * @takiuchi さん Groongaをem-synchronyから使う
+  * クリアコードの 林 さん "Groongaを支える取り組みの紹介":http://www.slideshare.net/kenhys/groonga-night-4-28866174
+  * DeNAの沖津さん GroongaとMapKit
+  * 丸山 さん "Groonga on スマホ":http://www.slideshare.net/KenjiMaruyama/i-mirrors-20131129
+  * おんがえし さん "Milkode2013年の歩み（Rroongaを使ったソースコード検索エンジン）":http://ongaeshi.me/slide/groonga04/#1
+  * 株式会社WEICの網岡隆宏さん GroongaからMroongaへの移行に際して
+
+h3. 参加者の反応
+
+* @yoku0625さん "全文検索エンジンGroongaを囲む夕べ(以下、ぐるんべ)4に参加して感じたことなど":http://yoku0825.blogspot.jp/2013/12/groonga4.html
+* おんがえしさん "Groongaを囲む夕べ4をサクっと振り帰る":http://ongaeshi.hatenablog.com/entry/groonga04
 
 h2(#concept). 今回のコンセプト
 
