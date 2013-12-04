@@ -37,6 +37,7 @@ h3. 参加者の反応
 
 * @yoku0625さん "全文検索エンジンGroongaを囲む夕べ(以下、ぐるんべ)4に参加して感じたことなど":http://yoku0825.blogspot.jp/2013/12/groonga4.html
 * おんがえしさん "Groongaを囲む夕べ4をサクっと振り帰る":http://ongaeshi.hatenablog.com/entry/groonga04
+* クリアコードさん "全文検索エンジンGroongaを囲む夕べ 4での発表資料 - ククログ(2013-12-04)":http://www.clear-code.com/blog/2013/12/4.html
 
 h2(#concept). 今回のコンセプト
 
