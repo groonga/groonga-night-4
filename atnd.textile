@@ -28,7 +28,7 @@ h3(#document). 発表資料
   * GREEの @ichii386 さん InnoDB FTSよりMroonga！ 
   * @takiuchi さん Groongaをem-synchronyから使う
   * クリアコードの 林 さん "Groongaを支える取り組みの紹介":http://www.slideshare.net/kenhys/groonga-night-4-28866174
-  * DeNAの沖津さん GroongaとMapKit
+  * DeNAの沖津さん "GroongaとMapKit":https://speakerdeck.com/okitsutakatomo/groonga-with-mapkit
   * 丸山 さん "Groonga on スマホ":http://www.slideshare.net/KenjiMaruyama/i-mirrors-20131129
   * おんがえし さん "Milkode2013年の歩み（Rroongaを使ったソースコード検索エンジン）":http://ongaeshi.me/slide/groonga04/#1
   * 株式会社WEICの網岡隆宏さん GroongaからMroongaへの移行に際して
