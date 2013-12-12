@@ -26,7 +26,7 @@ h3(#document). 発表資料
   * リブセンスの @yoshi_ken さん "TritonnからMroongaへの移行体験記":http://www.slideshare.net/y-ken/migrate-fulltext-search-from-tritonn-to-mroonga
   * @yoku0825 さん "Mroonga de fulltextsearch":http://www.slideshare.net/yoku0825/mroonga-de-fts 
   * GREEの @ichii386 さん InnoDB FTSよりMroonga！ 
-  * @takiuchi さん Groongaをem-synchronyから使う
+  * @takiuchi さん "Groongaをem-synchronyから使う":https://dl.dropboxusercontent.com/u/247529/Groonga_11_29.pptx
   * クリアコードの 林 さん "Groongaを支える取り組みの紹介":http://www.slideshare.net/kenhys/groonga-night-4-28866174
   * DeNAの沖津さん "GroongaとMapKit":https://speakerdeck.com/okitsutakatomo/groonga-with-mapkit
   * 丸山 さん "Groonga on スマホ":http://www.slideshare.net/KenjiMaruyama/i-mirrors-20131129
