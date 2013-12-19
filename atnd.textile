@@ -12,6 +12,7 @@ h1. Groonga勉強会「全文検索エンジンGroongaを囲む夕べ 4」
 
 h2. イベント終了後まとめ
 
+* YouTubeの録画 ("全文検索エンジンGroongaを囲む夕べ 4":http://www.youtube.com/playlist?list=PLBkgLONP6sHh2X2D4BfGndf4aOCmb9-Kg) をチェック
 * Ustreamの録画 ("groonga-nightチャンネル":http://www.ustream.tv/channel/groonga-night) をチェック
 * Twitterでの反応 ("Togetterまとめ":http://togetter.com/li/598598) をチェック
 
